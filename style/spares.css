@@ -37,11 +37,33 @@ footer{
     width: 100%;
 }
 
+
+/* background */
+
+
 /* main text */
 .main-text{
     color: white;
+    /* color: slateblue; */
     position: absolute;
     top: 15vh;
     left: 5vw; 
     margin-right: 10vw;
+}
+
+/* spares-photos */
+#prod1,#prod2,#prod3,#prod4,#prod5,#prod6{
+    height: 35vh;
+}
+
+/* table */
+#spare-table{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5vh;
+}
+
+table, td{
+    border: 5px solid slategray;
+    border-collapse: collapse;
 }
