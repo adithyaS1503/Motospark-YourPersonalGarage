@@ -67,3 +67,12 @@ table, td{
     border: 5px solid slategray;
     border-collapse: collapse;
 }
+
+/* Return, replace */
+.returnreplace{
+    margin-top: 10vh ;
+}
+
+#instructions{
+    font-size: 2.5vh;
+}
