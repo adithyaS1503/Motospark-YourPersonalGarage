@@ -1,0 +1,11 @@
+HTML to - do list
+components to use:
+image - background of every main page
+list - ul and ol(ul for nav)
+nav
+anchor
+tables,
+header, footer
+
+forms with diff types of inputs - service request page. Date, Time for appointment, name, etc
+drop down for brand
