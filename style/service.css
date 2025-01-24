@@ -1,0 +1,84 @@
+.bar ul{
+    list-style-type: none;
+    background-color: rgb(0, 0, 0);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+.bar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    font-size: 25px;
+}
+
+.bar a:hover{
+    background-color: cadetblue;
+}
+
+.bar li{
+    float: left;
+}
+
+/* Footer */
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin: 0px;
+    padding: 10px;
+}
+
+
+/* main */
+.main{
+    position: relative;
+    text-align: center;
+    padding: 10pxs;
+    color: white;
+}
+
+#main-text, #sub-text{
+    position: absolute;
+    padding: 20px;
+}
+
+#main-text{
+    top: 20px;
+    /* position: absolute;
+    left: 25px;
+    padding: 20px; */
+    font-size: 40px;
+    left: 515px;
+}
+
+#sub-text{
+    top: 105px;
+    /* position: absolute;
+    left: 25px;
+    padding: 20px; */
+    left: 540px;
+}
+
+.main img{
+    max-width: 100%;
+}
+
+.form-stuff{
+    position: absolute;
+    top: 200px;
+    padding-top: 25px;
+    padding: 20px;
+    display: block;
+    text-align: center;
+    left: 545px;
+}
+
+
+.theform{
+    background-color: slategray;
+    padding: 25px;
+    border-radius: 20px;
+}
