@@ -1,0 +1,47 @@
+.bar ul{
+    list-style-type: none;
+    background-color: rgb(0, 0, 0);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+.bar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    font-size: 25px;
+}
+
+.bar a:hover{
+    background-color: cadetblue;
+}
+
+.bar li{
+    float: left;
+}
+
+
+/* Footer */
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin: 0px;
+    padding: 10px;
+}
+
+/* image */
+#clutches{
+    width: 100%;
+}
+
+/* main text */
+.main-text{
+    color: white;
+    position: absolute;
+    top: 15vh;
+    left: 5vw; 
+    margin-right: 10vw;
+}
