@@ -57,6 +57,12 @@ footer{
 }
 
 /* table */
+
+#products{
+  text-align: center;
+  text-decoration: underline;
+}
+
 #spare-table{
     margin-left: auto;
     margin-right: auto;
